@@ -3,6 +3,7 @@
 ## Source
 
 [Interactive hierarchical dimension ordering, spacing and filtering for exploration of high dimensional datasets]()
+
 <br />
 <br />
 Jing Yang, Wei Peng, M. O. Ward and E. A. Rundensteiner, "Interactive hierarchical dimension ordering, spacing and filtering for exploration of high dimensional datasets," IEEE Symposium on Information Visualization 2003 (IEEE Cat. No.03TH8714), Seattle, WA, USA, 2003, pp. 105-112, doi: 10.1109/INFVIS.2003.1249015.
