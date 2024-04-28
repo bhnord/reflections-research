@@ -27,7 +27,7 @@ They propose a model to visually query taxi trips, and express
 many queries based on geographical location as well as time.
 
 They used queries following a simple template: "SELECT \* FROM
-trips WHERE \<constriants\>", similar to an SQL query.
+trips WHERE \<constraints\>", similar to an SQL query.
 
 They allowed users to visually constrain the dataset in three
 ways: spatially, temporally and via attributes.
